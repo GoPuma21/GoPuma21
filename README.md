@@ -1,0 +1,5 @@
+- 👋 Hi 
+- 👀 QBFramework
+- 🌱 Lua, CSS, JavaScript, HTML.
+- 💞️ Scripts
+- 📫 Discord: dezortia#9866
